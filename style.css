@@ -4,5 +4,6 @@
 
 body {
 	font-family: 'Poppins', sans-serif;
+	font-size: 0.9em;
 	@apply bg-slate-900 text-slate-400;
 }
