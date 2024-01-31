@@ -10,6 +10,12 @@ document.querySelector('#app').innerHTML = `
 				<img src="${PaypalLogo}" alt="PayPal" class="w-24" />
 			</div>
 		</div>
+
+		<div class="">
+			<div class="bg-black/30 p-6 rounded-xl">
+				<img src="${PaypalLogo}" alt="PayPal" class="w-24" />
+			</div>
+		</div>
 	</div>
 
 </section>`
